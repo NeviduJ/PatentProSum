@@ -1,7 +1,0 @@
-PatentProSum
-
-Automated patent summarization methods that aid in the patent analysis process are in high demand due to the explosive growth of patent documents. The advancement of natural language processing (NLP), text-mining, and deep learning (DL) has significantly enhanced the effectiveness of text summarization models for various types of documents. Summarizing patent documents remains a significant challenge due to the intricate writing style of these documents, which combine technical and legal complexities. Moreover, these patent documents are significantly longer than typical documents, which complicates the process of extracting important information for summarization.
-
-Incorporating extractive and abstractive text summarization methodologies into a hybrid framework, this research study proposes a technique for efficiently generating abstractive summaries of patent documents. The process involves using the LexRank graph-based algorithm to identify salient sentences from input descriptions, then utilizing a Bidirectional Auto-Regressive Transformer (BART) architecture that has been fine-tuned with Low Ranking Adaptation (LoRA) for generating text summaries. This is followed by systematic testing and evaluation procedures. Additionally, the author employed specific meta-learning strategies to accomplish Domain Generalization (DG) of the abstractive model across various patent domains.
-
-Dataset: https://drive.google.com/drive/folders/1PLzZZ6JaHYl5jjp8EEm8GcNVQ1Bb_8cw?usp=sharing
