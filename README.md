@@ -1,4 +1,4 @@
-# PatentProSum: Hybrid Extractive-Abstractive Patent Summarization
+# PatentProSum: A Hybrid Architecture with Efficient Fine Tuning for Abstractive Patent Document Summarization 
 
 PatentProSum is a toolkit and research project for generating high-quality abstractive summaries of patent documents. It combines extractive sentence selection (LexRank) with a BART-based language model fine-tuned using Low-Rank Adaptation (LoRA). The project includes training scripts, evaluation notebooks, and user/admin interfaces for summarization.
 
