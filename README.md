@@ -71,11 +71,3 @@ If you use this project or models, please cite:
   organization={IEEE}
 }
 ```
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-For questions or contributions, please contact [your email or GitHub profile].
